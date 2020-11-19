@@ -1,4 +1,4 @@
-# api-Provider-Ping-Test
+# apiProviderPingTest
 
 Simple API Provider Ping Test used to verify API consumer using either GET or POST method.
 This is used for connectivity testing between systems.
